@@ -1,7 +1,7 @@
 {
     "name": "DeFi Safety",
     "timestamp": "2020-12-03T17:00:02.506+00:00",
-    "logoURI": "/assets/defi_safety_logo.png",
+    "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/defi_safety_logo.png",
     "version": {
         "major": 0,
         "minor": 1,
@@ -28,7 +28,7 @@
             "name": "mStable USD",
             "symbol": "MUSD",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/mstable.png",
             "tags": [
                 "over70percent"
             ]
@@ -39,7 +39,7 @@
             "name": "Compound",
             "symbol": "COMP",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/compound.png",
             "tags": [
                 "over70percent"
             ]
@@ -50,7 +50,7 @@
             "name": "Aave",
             "symbol": "AAVE",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/aave.png",
             "tags": [
                 "over70percent"
             ]
@@ -61,7 +61,7 @@
             "name": "Balancer",
             "symbol": "BAL",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/balancer.png",
             "tags": [
                 "over70percent"
             ]
@@ -72,7 +72,7 @@
             "name": "Maker",
             "symbol": "MKR",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/maker.png",
             "tags": [
                 "over70percent"
             ]
@@ -83,7 +83,7 @@
             "name": "Synthetix Network Token",
             "symbol": "SNX",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/synthetix.png",
             "tags": [
                 "over70percent"
             ]
@@ -94,7 +94,7 @@
             "name": "Uniswap",
             "symbol": "UNI",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/uniswap.png",
             "tags": [
                 "over70percent"
             ]
@@ -105,7 +105,7 @@
             "name": "Akropolis",
             "symbol": "AKRO",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/akro.png",
             "tags": [
                 "over70percent"
             ]
@@ -116,7 +116,7 @@
             "name": "Republic",
             "symbol": "REN",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/ren.png",
             "tags": [
                 "over70percent"
             ]
@@ -127,7 +127,7 @@
             "name": "Nexus Mutual",
             "symbol": "NXM",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/nexus.png",
             "tags": [
                 "over70percent"
             ]
@@ -138,7 +138,7 @@
             "name": "bZx Protocol",
             "symbol": "BZRX",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/bzx.png",
             "tags": [
                 "over70percent"
             ]
@@ -149,7 +149,7 @@
             "name": "dForce Token",
             "symbol": "DF",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/dforce.png",
             "tags": [
                 "over70percent"
             ]
@@ -160,7 +160,7 @@
             "name": "Ampleforth",
             "symbol": "AMPL",
             "decimals": 9,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/ampleforth.jpg",
             "tags": [
                 "over70percent"
             ]
@@ -171,7 +171,7 @@
             "name": "Auctus",
             "symbol": "AUC",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/auctus.png",
             "tags": [
                 "over70percent"
             ]
@@ -182,7 +182,7 @@
             "name": "DODO",
             "symbol": "DODO",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/dodo.png",
             "tags": [
                 "over70percent"
             ]
@@ -193,7 +193,7 @@
             "name": "Bancor Network Token",
             "symbol": "BNT",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/bancor.png",
             "tags": [
                 "over70percent"
             ]
@@ -204,7 +204,7 @@
             "name": "PLOT",
             "symbol": "PLOT",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/plot.png",
             "tags": [
                 "over70percent"
             ]
@@ -215,7 +215,7 @@
             "name": "MCDEX Token",
             "symbol": "MCB",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/mcdex.png",
             "tags": [
                 "over70percent"
             ]
@@ -226,7 +226,7 @@
             "name": "Datamine",
             "symbol": "DAM",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/datamine.svg",
             "tags": [
                 "over70percent"
             ]
@@ -237,7 +237,7 @@
             "name": "Kyber Network",
             "symbol": "KNC",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/kyber.png",
             "tags": [
                 "over70percent"
             ]
@@ -248,7 +248,7 @@
             "name": "Hegic",
             "symbol": "HEGIC",
             "decimals": 18,
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/hegic.png",
             "tags": [
                 "over70percent"
             ]
