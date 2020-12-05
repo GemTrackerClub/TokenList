@@ -16,8 +16,8 @@
         "verified"
     ],
     "tags": {
-        "over70percent": {
-            "name": "Over 70% in DeFi Safety ranking",
+        "accepted": {
+            "name": "Accepted",
             "description": "Projects that got over 70% rating points from DeFi Safety team"
         }
     },
@@ -30,7 +30,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/mstable.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -41,7 +41,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/compound.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -52,7 +52,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/aave.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -63,7 +63,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/balancer.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -74,7 +74,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/maker.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -85,7 +85,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/synthetix.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -96,7 +96,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/uniswap.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -107,7 +107,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/akro.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -118,7 +118,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/ren.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -129,7 +129,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/nexus.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -140,7 +140,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/bzx.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -151,7 +151,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/dforce.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -162,7 +162,7 @@
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/ampleforth.jpg",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -173,7 +173,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/auctus.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -184,7 +184,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/dodo.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -195,7 +195,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/bancor.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -206,7 +206,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/plot.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -217,7 +217,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/mcdex.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -228,7 +228,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/datamine.svg",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -239,7 +239,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/kyber.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         },
         {
@@ -250,7 +250,7 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/hegic.png",
             "tags": [
-                "over70percent"
+                "accepted"
             ]
         }
     ]
