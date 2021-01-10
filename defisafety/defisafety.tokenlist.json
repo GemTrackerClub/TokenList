@@ -252,6 +252,39 @@
             "tags": [
                 "accepted"
             ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e",
+            "name": "Metronome",
+            "symbol": "MET",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/metronome.png",
+            "tags": [
+                "accepted"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+            "name": "Alpha Homora",
+            "symbol": "ALPHA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/alpha.png",
+            "tags": [
+                "accepted"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
+            "name": "Idle Finance",
+            "symbol": "IDLE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/GemTrackerClub/TokenList/main/defisafety/assets/idle.png",
+            "tags": [
+                "accepted"
+            ]
         }
     ]
 }
